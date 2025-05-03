@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Note>
+    <Id>26afb6dc-faae-4856-8629-88fb2443dc28</Id>
+    <Title>new xml note</Title>
+    <Content>new note</Content>
+    <CreatedAt>2025-05-03T18:55:37.3000243Z</CreatedAt>
+  </Note>
+  <Note>
+    <Id>97087bbd-1981-4fa8-8007-57eed5a38a9d</Id>
+    <Title>new xml note again</Title>
+    <Content>new note again</Content>
+    <CreatedAt>2025-05-03T18:55:53.2488888Z</CreatedAt>
+  </Note>
+</ArrayOfNote>
